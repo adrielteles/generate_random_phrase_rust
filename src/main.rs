@@ -2,7 +2,6 @@ use rand::Rng;
 use std::io;
 
 fn main() -> ! {
-    //tupla
 
     let articles: [&str; 8] = ["o","os","a","as","um","uns","uma","umas"];
     let subjects: [&str; 8] = ["cachorro", "gato", "homem", "elefante", "rato", "cavalo", "pato", "papagaio"];
